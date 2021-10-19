@@ -13,6 +13,8 @@
 		22746355271F457400AE16A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22746353271F457400AE16A5 /* Main.storyboard */; };
 		22746357271F457500AE16A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22746356271F457500AE16A5 /* Assets.xcassets */; };
 		2274635A271F457500AE16A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22746358271F457500AE16A5 /* LaunchScreen.storyboard */; };
+		22746362271F494E00AE16A5 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22746361271F494E00AE16A5 /* Student.swift */; };
+		22746364271F4F6700AE16A5 /* CalculateAge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22746363271F4F6700AE16A5 /* CalculateAge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		22746356271F457500AE16A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22746359271F457500AE16A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2274635B271F457500AE16A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22746361271F494E00AE16A5 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		22746363271F4F6700AE16A5 /* CalculateAge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateAge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				2274634D271F457400AE16A5 /* AppDelegate.swift */,
 				2274634F271F457400AE16A5 /* SceneDelegate.swift */,
 				22746351271F457400AE16A5 /* ViewController.swift */,
+				22746363271F4F6700AE16A5 /* CalculateAge.swift */,
+				22746361271F494E00AE16A5 /* Student.swift */,
 				22746353271F457400AE16A5 /* Main.storyboard */,
 				22746356271F457500AE16A5 /* Assets.xcassets */,
 				22746358271F457500AE16A5 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 				22746352271F457400AE16A5 /* ViewController.swift in Sources */,
 				2274634E271F457400AE16A5 /* AppDelegate.swift in Sources */,
 				22746350271F457400AE16A5 /* SceneDelegate.swift in Sources */,
+				22746364271F4F6700AE16A5 /* CalculateAge.swift in Sources */,
+				22746362271F494E00AE16A5 /* Student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
