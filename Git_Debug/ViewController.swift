@@ -34,6 +34,13 @@ class ViewController: UIViewController {
         
         return allStudent
     }
+    
+    func print() {
+        //MARK: TODO
+        /*
+            Montaha pls implement this
+        */
+    }
 
 }
 
