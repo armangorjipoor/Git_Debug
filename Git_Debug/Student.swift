@@ -28,3 +28,6 @@ struct Student {
         return Student(name: names[ix], age: stdAge )
     }
 }
+
+extension {
+}
