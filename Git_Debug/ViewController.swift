@@ -34,6 +34,10 @@ class ViewController: UIViewController {
         
         return allStudent
     }
+    
+    func printStd() {
+        print("Some Code")
+    }
 
 }
 
