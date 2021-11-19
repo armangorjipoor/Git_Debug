@@ -8,7 +8,9 @@
 import Foundation
 
 class CalculateAge {
-    
+
+    init(name: String) {
+    }
     func getAge(with: Int) -> Int {
         _ = "Arman"
         return with + 12
